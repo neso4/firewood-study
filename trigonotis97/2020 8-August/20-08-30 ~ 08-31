@@ -1,0 +1,26 @@
+## 08-30 sun
+
+- 알고리즘 (백준)
+
+백준 10814 문제를 풀었다.
+
+이전에 배웠던 자바의 정적변수와 정적 중첩 클래스 내용을 적용해 풀어봤다.
+
+[https://github.com/trigonotis97/AlgorithmWithJava/commit/160aee3015778c19afe87abd617181c7d8aec369](https://github.com/trigonotis97/AlgorithmWithJava/commit/160aee3015778c19afe87abd617181c7d8aec369)
+
+
+## 08-31 mon
+
+- 알고리즘 (백준)
+
+백준 17404 문제를 풀었다.
+
+예전에 풀었던 RGB거리의 응용문제를 풀었다. 아주 간단한 조건 추가였지만 생각하는데 굉장히 오래걸렸고 결국 다른사람 코드를 보고 풀었다. 
+
+https://github.com/trigonotis97/AlgorithmWithJava/commit/837ed92ac563d5be6b82634258eed52554f5b10e
+
+- 스프링 부트 프로젝트(공간예약)
+
+프로젝트 개발을 위한 기능명세를 작성했다.
+
+실제로 해결해야할 문제를 해결하기위해 만드는 웹사이트라 필요한 기능은 정해져있지만, 개발 진행상황체크를 위해 기능명세를 다시 작성했다.
